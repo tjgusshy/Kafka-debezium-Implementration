@@ -4,6 +4,8 @@ Change Data Capture (CDC) Was Implemented using python and postgres as a produce
 
 <img width="614" alt="image" src="https://github.com/tjgusshy/Kafka-debezium-Implementration/assets/84289281/ec19c40b-e4a8-4fa4-b92a-fc9334ca9570">
 
+## Kafka Connect Topics and messages 
+
 
 <img width="947" alt="image" src="https://github.com/tjgusshy/Kafka-debezium-Implementration/assets/84289281/ca1e9b36-a01d-4446-a3a9-28b1f3d744e0">
 
@@ -17,7 +19,7 @@ Change Data Capture (CDC) Was Implemented using python and postgres as a produce
 4. Dbeaver
 
 
-## How to Run This Project
+
 
 
 
